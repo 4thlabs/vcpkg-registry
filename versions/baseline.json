@@ -1,3 +1,5 @@
 {
-  "default": {}
+  "default": {
+    "ta-lib": { "baseline": "0.4.0", "port-version": 0 }
+  }
 }
