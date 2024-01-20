@@ -1,0 +1,6 @@
+{
+  "name": "ta-lib",
+  "version": "0.4.0",
+  "description": "CMake compatible ta-lib version.",
+  "homepage": "https://github.com/4thlabs/ta-lib"
+}
